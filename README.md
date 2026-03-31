@@ -1,4 +1,4 @@
-# Claude Code 2.1.88 Recovered
+# Claude Code 2.1.88 泄露版本
 
 这是一个从 `cli.js.map` 逆向恢复出来，并重新整理为标准 npm 项目的 Claude Code 2.1.88 工程。当前它已经可以安装依赖、完成构建，并启动 CLI 基础入口。
 
